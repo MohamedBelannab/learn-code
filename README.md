@@ -22,7 +22,7 @@ npm run build
 ### Install JSON Server
 
 ```
-json-server --watch db.json
+npm install json-server
 ```
 ### Start JSON Server
 
